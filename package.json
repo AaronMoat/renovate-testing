@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql": "16.8.0"
+    "graphql": "16.7.0"
   }
 }

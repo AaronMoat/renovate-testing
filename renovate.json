@@ -1,5 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
-  "rebaseWhen": "behind-base-branch"
+  "rebaseWhen": "behind-base-branch",
+  "prConcurrentLimit": 10,
+  "branchConcurrentLimit": 10,
+  "gitIgnoredAuthors": ["aaron-fake-email@example.com"]
 }

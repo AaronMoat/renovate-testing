@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql": "16.7.0",
+    "graphql": "16.8.1",
     "chalk": "5.2.0",
     "axios": "1.6.7",
     "koa": "2.13.0"
